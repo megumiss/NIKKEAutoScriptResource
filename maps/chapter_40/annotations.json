@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "image": "map.png",
+  "image_sha256": "5c73316d4387b030c91a6b7cf6a4926fb2cc8fa39701fa62baae4766977eaa21",
+  "coordinates": {
+    "unit": "pixel",
+    "origin": "top_left",
+    "x": "right",
+    "y": "down"
+  },
+  "objects": [],
+  "connections": []
+}

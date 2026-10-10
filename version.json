@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "version": "2026.10.10.1",
+  "updated_at": "2026-10-10T16:02:26+0800",
+  "components": {
+    "maps": {
+      "path": "maps",
+      "version": "2026.10.10.1",
+      "chapters": 48,
+      "layered_chapters": [
+        39,
+        40
+      ],
+      "description": "章节地图运行包，普通与困难共用底图；平面章节附道路概率缓存，分层章节附参考帧与局部表面标签"
+    }
+  }
+}
