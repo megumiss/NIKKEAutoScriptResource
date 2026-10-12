@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "2720b2138815d712f96ea0390790919f4ef21e13a9bb6f5b0b2a3438a2b1fa99",
+  "image_sha256": "4a1fcf995519aefd7fb293c6a9c59c3fcb3d4526dc76f7849e8664c0ba67047f",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
@@ -248,7 +248,7 @@
       "label": "困难收集物 05",
       "points": [
         [
-          111.0,
+          111,
           737.9
         ]
       ],
@@ -482,7 +482,7 @@
       "points": [
         [
           121.4,
-          729.0
+          729
         ]
       ],
       "color": "#ffd166",
@@ -532,7 +532,23 @@
         ],
         "screenshot_layout": "cropped_minimap"
       }
+    },
+    {
+      "id": "obj_92ebd2691816",
+      "type": "point",
+      "category": "normal_collectible",
+      "difficulty": "normal",
+      "label": "普通收集品",
+      "points": [
+        [
+          1517.1,
+          1402.8
+        ]
+      ],
+      "color": "#ffd166",
+      "note": ""
     }
   ],
-  "connections": []
+  "connections": [],
+  "terrain_edits": []
 }
