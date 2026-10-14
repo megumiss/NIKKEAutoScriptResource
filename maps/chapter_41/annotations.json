@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "ccb7e0d08be91b63a851a307b1510f7431ab3f45095004ee633ab9b2f0c994e7",
+  "image_sha256": "c20e03ad765724fab480b9723a90e7030bccf99693dcb2e014390bca7443ef41",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
@@ -249,7 +249,7 @@
       "points": [
         [
           115.1,
-          704.0
+          704
         ]
       ],
       "color": "#c792ea",
@@ -474,5 +474,6 @@
       }
     }
   ],
-  "connections": []
+  "connections": [],
+  "terrain_edits": []
 }
