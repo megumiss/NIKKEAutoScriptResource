@@ -1,13 +1,72 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "682963132513e6c529f3cd0b079d2fcb91217f30113d00e907ca52384705b8a7",
+  "image_sha256": "ac62157268c450d60cbf68586e1bcbcb703ddb1dbf5b34b93b3aef2da6d198fc",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
     "x": "right",
     "y": "down"
   },
-  "objects": [],
+  "objects": [
+    {
+      "id": "wiki_673375_04",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 04",
+      "points": [
+        [
+          653.8,
+          949.8
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "信用点 ×37000\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/673375.html",
+      "source": {
+        "number": 4,
+        "road_iou": 0.852258026599884,
+        "roi": [
+          25,
+          96,
+          243,
+          307
+        ],
+        "roi_to_map": [
+          [
+            3.2553611783940757,
+            2.657571947532676,
+            397.2263215559319
+          ],
+          [
+            -0.038363100600083536,
+            7.936921450881896,
+            723.968965524768
+          ],
+          [
+            -3.366385843332483e-05,
+            0.0040884789715098955,
+            1.1574962820871184
+          ]
+        ],
+        "player_center": [
+          110.12952296181939,
+          92.79038749338996
+        ],
+        "url": "https://www.gamekee.com/nikke/673375.html",
+        "article_id": 673375,
+        "difficulty": "normal",
+        "author": "左猫猫ZuoCat",
+        "article_updated": 1754572865,
+        "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/1253/475341/2025/7/7/808672.png",
+        "item_name": "信用点 ×37000",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          1920,
+          1080
+        ]
+      }
+    }
+  ],
   "connections": []
 }

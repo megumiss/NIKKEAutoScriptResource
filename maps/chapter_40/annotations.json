@@ -1,13 +1,72 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "a143e89b3d4b0784bf437546ba0c118a914d58fe1fb495aafa6d972f06a87fc2",
+  "image_sha256": "08d1057c2102c2c206cdfe9bc736f2c8d28e8ae42cc7b3b83b232684e953f6da",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
     "x": "right",
     "y": "down"
   },
-  "objects": [],
+  "objects": [
+    {
+      "id": "wiki_673384_06",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 06",
+      "points": [
+        [
+          503.7,
+          246.8
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "Turning Point 所属专辑 From the Sky，From the Land\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/673384.html",
+      "source": {
+        "number": 6,
+        "road_iou": 0.857265830039978,
+        "roi": [
+          25,
+          96,
+          243,
+          307
+        ],
+        "roi_to_map": [
+          [
+            2.804749362568144,
+            4.7034213335804065,
+            77.31842917170475
+          ],
+          [
+            -0.10622557409865856,
+            5.517737753377261,
+            -161.4772097733874
+          ],
+          [
+            -0.00038312990967164754,
+            0.00906722823280143,
+            0.7753165656374242
+          ]
+        ],
+        "player_center": [
+          99.56619108427802,
+          107.92514127630884
+        ],
+        "url": "https://www.gamekee.com/nikke/673384.html",
+        "article_id": 673384,
+        "difficulty": "normal",
+        "author": "左猫猫ZuoCat",
+        "article_updated": 1754577532,
+        "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/1253/475341/2025/7/7/792689.png",
+        "item_name": "Turning Point 所属专辑 From the Sky，From the Land",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          1920,
+          1080
+        ]
+      }
+    }
+  ],
   "connections": []
 }
