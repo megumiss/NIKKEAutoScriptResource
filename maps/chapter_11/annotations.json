@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "c25323934962335f04e26dd7662a385d39173114b8c1406c84f0c364316280e6",
+  "image_sha256": "98070b96993fcd16df99a086e10998054dd515479d1cc450607a7db2d85b68cf",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
@@ -16,15 +16,15 @@
       "label": "困难收集物 01",
       "points": [
         [
-          521.9,
-          680.3
+          571.3,
+          711.2
         ]
       ],
       "color": "#c792ea",
       "note": "Splinter - Heated - 【Two Top】\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/599239.html",
       "source": {
         "number": 1,
-        "road_iou": 0.8603653907775879,
+        "road_iou": 0.9319559335708618,
         "roi": [
           7,
           6,
@@ -33,19 +33,19 @@
         ],
         "roi_to_map": [
           [
-            2.2026177321754563,
-            1.556507359479154,
-            73.87164635907912
+            1.7785552175529855,
+            1.3223058465046404,
+            70.2036207957441
           ],
           [
-            0.1780581660368928,
-            4.392445656683022,
-            25.07181239281122
+            -0.04636217547228524,
+            3.6147775955530923,
+            32.951573766348105
           ],
           [
-            0.00022776773669310675,
-            0.00295236883124924,
-            1.2461731462560177
+            -6.088608883547225e-05,
+            0.0023647914450419523,
+            0.9758664537821962
           ]
         ],
         "player_center": [
@@ -69,21 +69,80 @@
       }
     },
     {
+      "id": "wiki_599239_02",
+      "type": "point",
+      "difficulty": "hard",
+      "label": "困难收集物 02",
+      "points": [
+        [
+          297.6,
+          1113.5
+        ]
+      ],
+      "color": "#c792ea",
+      "note": "尘芯*10\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/599239.html",
+      "source": {
+        "number": 2,
+        "road_iou": 0.9404894113540649,
+        "roi": [
+          7,
+          0,
+          537,
+          537
+        ],
+        "roi_to_map": [
+          [
+            1.791292563016997,
+            0.7226653546503504,
+            -175.08690103412616
+          ],
+          [
+            -0.07067228183376141,
+            4.554561648506509,
+            424.21075094015083
+          ],
+          [
+            -6.079557778288665e-05,
+            0.002360387736578187,
+            0.9758120253088433
+          ]
+        ],
+        "player_center": [
+          253.46604996039187,
+          344.2633767632542
+        ],
+        "url": "https://www.gamekee.com/nikke/599239.html",
+        "article_id": 599239,
+        "difficulty": "hard",
+        "author": "DEVILS",
+        "article_updated": 1694268491,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_545/h_541/1253/262658/2023/8/9/833935.jpg",
+        "item_name": "尘芯*10",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          545,
+          541
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
       "id": "wiki_599239_03",
       "type": "point",
       "difficulty": "hard",
       "label": "困难收集物 03",
       "points": [
         [
-          150.5,
-          698.0
+          141.6,
+          741.8
         ]
       ],
       "color": "#c792ea",
       "note": "Blurred Vision [Scenario Ver.] 【Two Top】\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/599239.html",
       "source": {
         "number": 3,
-        "road_iou": 0.8619779944419861,
+        "road_iou": 0.9399838447570801,
         "roi": [
           4,
           0,
@@ -92,19 +151,19 @@
         ],
         "roi_to_map": [
           [
-            2.120165811492552,
-            0.4877498425669292,
-            -377.2430325855993
+            1.8040664887750482,
+            0.33145823103206223,
+            -338.6844233389961
           ],
           [
-            0.1830690562441412,
-            4.4573977709705055,
-            52.48762161044361
+            -0.048493188581526764,
+            3.6975452961295607,
+            67.10689964872498
           ],
           [
-            0.00022776773669310675,
-            0.00295236883124924,
-            1.2461731462560177
+            -6.088608883547225e-05,
+            0.0023647914450419523,
+            0.9758664537821962
           ]
         ],
         "player_center": [
@@ -134,15 +193,15 @@
       "label": "困难收集物 04",
       "points": [
         [
-          640.5,
-          273.4
+          730.8,
+          261.3
         ]
       ],
       "color": "#c792ea",
       "note": "The Harvester 【Two Top】\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/599239.html",
       "source": {
         "number": 4,
-        "road_iou": 0.901756227016449,
+        "road_iou": 0.9489094018936157,
         "roi": [
           4,
           0,
@@ -151,19 +210,19 @@
         ],
         "roi_to_map": [
           [
-            2.109300872539909,
-            2.20180242459262,
-            173.5836230079229
+            1.694411014151882,
+            1.9011460918414604,
+            190.1967677675152
           ],
           [
-            0.09183517537667595,
-            3.1344421443239874,
-            -454.7511631722048
+            -0.020374449757915882,
+            2.5382848750532614,
+            -395.79680016641186
           ],
           [
-            0.0002630448945647664,
-            0.0034125963816534657,
-            1.104934586378626
+            -6.780496256677592e-05,
+            0.0026358026642519365,
+            0.8984829013489519
           ]
         ],
         "player_center": [
@@ -187,21 +246,316 @@
       }
     },
     {
+      "id": "wiki_599239_05",
+      "type": "point",
+      "difficulty": "hard",
+      "label": "困难收集物 05",
+      "points": [
+        [
+          906.0,
+          794.9
+        ]
+      ],
+      "color": "#c792ea",
+      "note": "Blurred Vision - Into the Matter - 【Two Top】\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/599239.html",
+      "source": {
+        "number": 5,
+        "road_iou": 0.9256453514099121,
+        "roi": [
+          0,
+          0,
+          534,
+          535
+        ],
+        "roi_to_map": [
+          [
+            1.7592006958202284,
+            2.1516323001903084,
+            407.6391630935968
+          ],
+          [
+            -0.05122735021366262,
+            3.8087019068510544,
+            110.13651326401818
+          ],
+          [
+            -6.09517360768679e-05,
+            0.0023692116159672646,
+            0.975975310728902
+          ]
+        ],
+        "player_center": [
+          261.7233991248341,
+          346.11310574280077
+        ],
+        "url": "https://www.gamekee.com/nikke/599239.html",
+        "article_id": 599239,
+        "difficulty": "hard",
+        "author": "DEVILS",
+        "article_updated": 1694268491,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_538/h_535/1253/262658/2023/8/9/658254.jpg",
+        "item_name": "Blurred Vision - Into the Matter - 【Two Top】",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          538,
+          535
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
+      "id": "wiki_576484_01",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 01",
+      "points": [
+        [
+          677.2,
+          1305.2
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "Languor\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 1,
+        "road_iou": 0.8737483620643616,
+        "roi": [
+          7,
+          0,
+          505,
+          512
+        ],
+        "roi_to_map": [
+          [
+            1.8569534936390926,
+            1.676414576254884,
+            193.27335240910034
+          ],
+          [
+            -0.08626052249765513,
+            5.2448485113213374,
+            608.3449926262357
+          ],
+          [
+            -6.382776794800511e-05,
+            0.0024756410440282942,
+            0.9755943114154315
+          ]
+        ],
+        "player_center": [
+          246.00308414146306,
+          330.5781451517001
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/199049.png",
+        "item_name": "Languor",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
+      "id": "wiki_576484_02",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 02",
+      "points": [
+        [
+          1101.1,
+          1302.2
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "A\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 2,
+        "road_iou": 0.8867066502571106,
+        "roi": [
+          7,
+          7,
+          506,
+          506
+        ],
+        "roi_to_map": [
+          [
+            1.8743734467291424,
+            2.4405470438084036,
+            679.6996020133406
+          ],
+          [
+            -0.07807598452987011,
+            4.967913444902052,
+            698.0699430156766
+          ],
+          [
+            -5.72644258723129e-05,
+            0.002222619614678709,
+            1.0532091848604257
+          ]
+        ],
+        "player_center": [
+          248.85058736566816,
+          325.157070700274
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/8740.png",
+        "item_name": "A",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
+      "id": "wiki_576484_03",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 03",
+      "points": [
+        [
+          732.4,
+          963.8
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "1.配送服务\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 3,
+        "road_iou": 0.8941558003425598,
+        "roi": [
+          5,
+          0,
+          507,
+          507
+        ],
+        "roi_to_map": [
+          [
+            1.869965438650254,
+            1.837950492082771,
+            241.95611666141062
+          ],
+          [
+            -0.06501251482539668,
+            4.4415538233195155,
+            274.96645430433273
+          ],
+          [
+            -6.440341269250154e-05,
+            0.002500055649985181,
+            0.9758664537821962
+          ]
+        ],
+        "player_center": [
+          245.41652325544626,
+          327.8977182226186
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/692660.png",
+        "item_name": "1.配送服务",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
+      "id": "wiki_576484_04",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 04",
+      "points": [
+        [
+          1193.8,
+          688.4
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "Blurred Vision\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 4,
+        "road_iou": 0.9431721568107605,
+        "roi": [
+          8,
+          4,
+          507,
+          512
+        ],
+        "roi_to_map": [
+          [
+            1.8397089207975057,
+            2.9521526370098403,
+            682.2562023676243
+          ],
+          [
+            -0.047844699175554714,
+            3.76910488849349,
+            15.30504707322246
+          ],
+          [
+            -6.435430717078974e-05,
+            0.0024951342805954457,
+            0.9757575968354903
+          ]
+        ],
+        "player_center": [
+          256.25130241285103,
+          320.3926379094422
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/72048.png",
+        "item_name": "Blurred Vision",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
       "id": "wiki_576484_05",
       "type": "point",
       "difficulty": "normal",
       "label": "普通收集物 05",
       "points": [
         [
-          831.8,
-          622.8
+          924.4,
+          631.5
         ]
       ],
       "color": "#ffd166",
       "note": "B\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
       "source": {
         "number": 5,
-        "road_iou": 0.8585494756698608,
+        "road_iou": 0.9026129245758057,
         "roi": [
           0,
           10,
@@ -210,19 +564,19 @@
         ],
         "roi_to_map": [
           [
-            2.473919103667039,
-            2.6989184431078947,
-            460.04163214460976
+            1.911346379245521,
+            2.357215128235766,
+            415.81191514834484
           ],
           [
-            0.17662159948550696,
-            4.557386140359989,
-            -57.60757283637377
+            -0.04434590932446775,
+            3.696208760679472,
+            -53.68398032266494
           ],
           [
-            0.0002478018894503651,
-            0.003212209357578603,
-            1.2481997640877718
+            -6.624154971958073e-05,
+            0.002572918779010207,
+            0.9781422862264924
           ]
         ],
         "player_center": [
@@ -252,15 +606,15 @@
       "label": "普通收集物 06",
       "points": [
         [
-          785.8,
-          306.1
+          900.1,
+          296.1
         ]
       ],
       "color": "#ffd166",
       "note": "Splinter\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
       "source": {
         "number": 6,
-        "road_iou": 0.89460688829422,
+        "road_iou": 0.9520180821418762,
         "roi": [
           0,
           0,
@@ -269,19 +623,19 @@
         ],
         "roi_to_map": [
           [
-            2.2748113035870077,
-            2.878214750006269,
-            330.9915808494872
+            1.8415018269457846,
+            2.2260068880291652,
+            397.28397040470963
           ],
           [
-            0.10665156778437344,
-            3.4345790975066626,
-            -417.7294432623876
+            -0.022480932939915623,
+            2.771683108337072,
+            -366.12025464224394
           ],
           [
-            0.0002783738022438834,
-            0.0036058879735830565,
-            1.1035093125111373
+            -6.378336721045567e-05,
+            0.0024756410440282942,
+            0.9760297392022549
           ]
         ],
         "player_center": [
@@ -311,15 +665,15 @@
       "label": "普通收集物 09",
       "points": [
         [
-          446.6,
-          439.5
+          493.3,
+          453.0
         ]
       ],
       "color": "#ffd166",
       "note": "4.旅行团\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
       "source": {
         "number": 9,
-        "road_iou": 0.8836961984634399,
+        "road_iou": 0.9250434041023254,
         "roi": [
           5,
           0,
@@ -328,19 +682,19 @@
         ],
         "roi_to_map": [
           [
-            2.1792558193290517,
-            1.6774540548031114,
-            -21.580463314732498
+            1.8066422284953056,
+            1.3933219401281336,
+            -5.280575101770415
           ],
           [
-            0.14209712489753287,
-            3.896132758125294,
-            -275.5089298181693
+            -0.034934395043954396,
+            3.2028679014417776,
+            -227.84019714541446
           ],
           [
-            0.0002780093315341987,
-            0.0036058879735830565,
-            1.1054096776677889
+            -7.166233866306587e-05,
+            0.002785096174531831,
+            0.8983604372839078
           ]
         ],
         "player_center": [
@@ -364,21 +718,139 @@
       }
     },
     {
+      "id": "wiki_576484_11",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 11",
+      "points": [
+        [
+          490.5,
+          1217.2
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "信用点×3200\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 11,
+        "road_iou": 0.9363953471183777,
+        "roi": [
+          6,
+          0,
+          505,
+          512
+        ],
+        "roi_to_map": [
+          [
+            1.8639974197160487,
+            1.2580312398141023,
+            28.397913779892413
+          ],
+          [
+            -0.08029096876946806,
+            5.019565176314763,
+            519.5659102874314
+          ],
+          [
+            -6.369985658939188e-05,
+            0.0024756410440282942,
+            0.9755943114154315
+          ]
+        ],
+        "player_center": [
+          229.82608509195313,
+          333.2582083189945
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/778060.png",
+        "item_name": "信用点×3200",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
+      "id": "wiki_576484_12",
+      "type": "point",
+      "difficulty": "normal",
+      "label": "普通收集物 12",
+      "points": [
+        [
+          202.6,
+          859.3
+        ]
+      ],
+      "color": "#ffd166",
+      "note": "E\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
+      "source": {
+        "number": 12,
+        "road_iou": 0.9212830066680908,
+        "roi": [
+          8,
+          4,
+          507,
+          512
+        ],
+        "roi_to_map": [
+          [
+            1.9029692047463918,
+            0.4994356391845169,
+            -276.91351532166277
+          ],
+          [
+            -0.05833445124439344,
+            4.175811776230548,
+            174.3535353574074
+          ],
+          [
+            -6.435430717078974e-05,
+            0.0024951342805954457,
+            0.9757575968354903
+          ]
+        ],
+        "player_center": [
+          248.77236366251083,
+          327.23728271312336
+        ],
+        "url": "https://www.gamekee.com/nikke/576484.html",
+        "article_id": 576484,
+        "difficulty": "normal",
+        "author": "小番茄",
+        "article_updated": 1669704299,
+        "image_url": "https://cdnimg.gamekee.com/wiki2.0/images/w_512/h_512/1253/43637/2022/10/22/495281.png",
+        "item_name": "E",
+        "importer": "wiki_collectibles",
+        "position_basis": "squad_marker_center",
+        "normalized_size": [
+          512,
+          512
+        ],
+        "screenshot_layout": "cropped_minimap"
+      }
+    },
+    {
       "id": "wiki_576484_13",
       "type": "point",
       "difficulty": "normal",
       "label": "普通收集物 13",
       "points": [
         [
-          387.6,
-          335.3
+          425.4,
+          343.3
         ]
       ],
       "color": "#ffd166",
       "note": "Orange Pop\n按 Wiki 小队圆环中心配准。\nhttps://www.gamekee.com/nikke/576484.html",
       "source": {
         "number": 13,
-        "road_iou": 0.8832349181175232,
+        "road_iou": 0.9317824840545654,
         "roi": [
           5,
           0,
@@ -387,19 +859,19 @@
         ],
         "roi_to_map": [
           [
-            2.1614632221108634,
-            1.4466772244937958,
-            -92.32668268547098
+            1.8692208079563786,
+            1.0550286742037822,
+            -51.600819756172974
           ],
           [
-            0.112906145086442,
-            3.5175145208990726,
-            -391.5769459732871
+            -0.024999493249875913,
+            2.8707087500982036,
+            -327.24995202116315
           ],
           [
-            0.0002780093315341987,
-            0.0036058879735830565,
-            1.1054096776677889
+            -6.369985658939188e-05,
+            0.0024756410440282942,
+            0.9755943114154315
           ]
         ],
         "player_center": [

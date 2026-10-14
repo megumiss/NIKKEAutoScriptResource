@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "4a1fcf995519aefd7fb293c6a9c59c3fcb3d4526dc76f7849e8664c0ba67047f",
+  "image_sha256": "198f567b8739d881f96037b44d2f41e2420ecb07931fb58db3d2bc6c4ef8b49e",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
