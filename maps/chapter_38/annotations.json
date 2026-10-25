@@ -17,7 +17,7 @@
       "points": [
         [
           1718.8,
-          1649.0
+          1649
         ]
       ],
       "color": "#c792ea",
@@ -480,7 +480,7 @@
       "label": "普通收集物 03",
       "points": [
         [
-          1690.0,
+          1690,
           1278.5
         ]
       ],
@@ -712,7 +712,7 @@
       "label": "普通收集物 08",
       "points": [
         [
-          86.0,
+          86,
           1333.2
         ]
       ],
@@ -945,7 +945,7 @@
       "points": [
         [
           1151.1,
-          490.0
+          490
         ]
       ],
       "color": "#ffd166",
@@ -994,6 +994,52 @@
           1080
         ]
       }
+    },
+    {
+      "id": "obj_21ae38095986",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关1",
+      "points": [
+        [
+          145,
+          1430.1
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_bbc1a48d735f",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关2",
+      "points": [
+        [
+          1514.8,
+          494.9
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_dbcacc21af1d",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕1",
+      "points": [
+        [
+          1090,
+          444.7
+        ],
+        [
+          1071.8,
+          510.2
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
     }
   ],
   "connections": []
