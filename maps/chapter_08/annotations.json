@@ -252,7 +252,7 @@
       "label": "普通收集物 01",
       "points": [
         [
-          305.0,
+          305,
           1240.1
         ]
       ],
@@ -783,7 +783,7 @@
       "label": "普通收集物 11",
       "points": [
         [
-          1056.0,
+          1056,
           1387.4
         ]
       ],
@@ -893,6 +893,102 @@
         ],
         "screenshot_layout": "cropped_minimap"
       }
+    },
+    {
+      "id": "obj_27b5dc4579e5",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关1",
+      "points": [
+        [
+          1331.9,
+          1064.5
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_9252e09ee78c",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关2",
+      "points": [
+        [
+          581.6,
+          1452.1
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_a075172042cb",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关3",
+      "points": [
+        [
+          796,
+          552.2
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_57b837d3de1c",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕1",
+      "points": [
+        [
+          907.7,
+          950.7
+        ],
+        [
+          879.6,
+          1068
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_07361a6af151",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕2",
+      "points": [
+        [
+          590.7,
+          903.6
+        ],
+        [
+          702.3,
+          828.1
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_2fb647e70182",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕3",
+      "points": [
+        [
+          748.9,
+          204.9
+        ],
+        [
+          876.9,
+          231.6
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
     }
   ],
   "connections": []

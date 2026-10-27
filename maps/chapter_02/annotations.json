@@ -17,7 +17,7 @@
       "points": [
         [
           954.8,
-          178.0
+          178
         ]
       ],
       "color": "#ffd166",
@@ -76,7 +76,7 @@
       "points": [
         [
           310.7,
-          125.0
+          125
         ]
       ],
       "color": "#ffd166",
@@ -126,6 +126,38 @@
         ],
         "screenshot_layout": "cropped_minimap"
       }
+    },
+    {
+      "id": "obj_e5c11d2fb54b",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关1",
+      "points": [
+        [
+          651.9,
+          1039.1
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_781429a8994e",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕1",
+      "points": [
+        [
+          988.3,
+          652.7
+        ],
+        [
+          1083.8,
+          609.9
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
     }
   ],
   "connections": []

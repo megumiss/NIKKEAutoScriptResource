@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "image": "map.png",
-  "image_sha256": "b00265ecd9dbbece149a6c01f929556156499fc7ff90a122f5a997ec9a8c3e3b",
+  "image_sha256": "8de3607334cd459fe123d59916160ed2789fb1bbb7b785fd3fe767a2c5ceea94",
   "coordinates": {
     "unit": "pixel",
     "origin": "top_left",
@@ -67,7 +67,40 @@
         ],
         "screenshot_layout": "cropped_minimap"
       }
+    },
+    {
+      "id": "obj_33c972045a5d",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕1",
+      "points": [
+        [
+          920.9,
+          1114.5
+        ],
+        [
+          951.9,
+          1192.6
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_763b760c6aa1",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关1",
+      "points": [
+        [
+          540.8,
+          985.2
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
     }
   ],
-  "connections": []
+  "connections": [],
+  "terrain_edits": []
 }

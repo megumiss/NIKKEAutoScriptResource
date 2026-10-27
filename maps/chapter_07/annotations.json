@@ -252,7 +252,7 @@
       "label": "普通收集物 05",
       "points": [
         [
-          904.0,
+          904,
           437.3
         ]
       ],
@@ -480,6 +480,102 @@
         ],
         "screenshot_layout": "cropped_minimap"
       }
+    },
+    {
+      "id": "obj_8078d5712e4a",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕1",
+      "points": [
+        [
+          505.1,
+          916.2
+        ],
+        [
+          522.8,
+          1022.1
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_f70f26af2c1d",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕2",
+      "points": [
+        [
+          539.9,
+          893.8
+        ],
+        [
+          634,
+          889.4
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_fe84a4f200be",
+      "type": "polyline",
+      "category": "ground_barrier",
+      "label": "光幕3",
+      "points": [
+        [
+          196.4,
+          873.4
+        ],
+        [
+          261,
+          845.9
+        ]
+      ],
+      "color": "#ff7e8b",
+      "note": ""
+    },
+    {
+      "id": "obj_f65953539926",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关1",
+      "points": [
+        [
+          192,
+          975.3
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_f4484609d978",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关2",
+      "points": [
+        [
+          423.8,
+          805.4
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
+    },
+    {
+      "id": "obj_bf45ef807088",
+      "type": "point",
+      "category": "ground_mechanism",
+      "label": "地面机关3",
+      "points": [
+        [
+          663.2,
+          458
+        ]
+      ],
+      "color": "#70dfa0",
+      "note": ""
     }
   ],
   "connections": []
