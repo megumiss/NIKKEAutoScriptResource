@@ -1,0 +1,37 @@
+name: mirrorchyan_release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        default: ''
+        required: false
+  release:
+    types: [published]
+
+jobs:
+  mirrorchyan:
+    if: ${{ github.repository_owner == 'megumiss' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ''
+            arch: ''
+            filename: 'NKAS_Resource_v*.zip'
+    steps:
+      - uses: MirrorChyan/uploading-action@v1
+        with:
+          filetype: latest-release
+          filename: ${{ matrix.filename }}
+          mirrorchyan_rid: NIKKEAutoScriptResource
+          tag: ${{ inputs.tag || github.event.release.tag_name }}
+
+          os: ${{ matrix.os }}
+          arch: ${{ matrix.arch }}
+
+          owner: megumiss
+          repo: NIKKEAutoScriptResource
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
